@@ -51,6 +51,7 @@ portfolioHUB integrates personal and academic projects in a dedicated section, i
 - Academic portfolio projects
 
 Each project contains:
+
 - Description
 - Technologies used
 - Repository access
@@ -84,7 +85,7 @@ The interface was designed with interactive and responsive navigation, prioritiz
 - Responsive Design
 - Git
 - GitHub
-- Vercel Deployment
+- GitHub Pages
 
 ## Purpose
 
@@ -92,7 +93,7 @@ The project was created to consolidate professional online presence while applyi
 
 ## Live Project
 
-https://portifoliohub-cyan.vercel.app/
+https://rafafdru.github.io/portifoliohub/
 
 ## Author
 
