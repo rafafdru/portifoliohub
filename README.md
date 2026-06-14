@@ -46,7 +46,7 @@ The platform centralizes academic and professional information, including:
 
 portfolioHUB integrates personal and academic projects in a dedicated section, including:
 
-- Nidium
+- Bolão WC 26
 - Python Programming Logic exercises
 - Academic portfolio projects
 
@@ -101,14 +101,14 @@ Developed by Rafael Emilio Fumagali Drummond.
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-Aqui está a tradução do README para o português do Brasil, mantendo a formatação original em Markdown e ajustando os termos para que fiquem naturais e profissionais:
+# portfolioHUB 
 
-portfolioHUB
 O portfolioHUB é um portfólio digital profissional desenvolvido para centralizar formação acadêmica, habilidades técnicas, projetos e identidade profissional em uma experiência web moderna e interativa.
 
 O projeto foi criado como parte de uma proposta acadêmica envolvendo o desenvolvimento de presença profissional online e o uso de Git e GitHub, servindo também como uma plataforma pessoal para a apresentação de projetos, competências e objetivos de carreira.
 
-Visão Geral
+Visão geral
+
 A plataforma funciona como um hub completo de apresentação pessoal, combinando informações curriculares, vitrine de projetos, habilidades técnicas e canais de contato profissional dentro de uma interface visualmente estruturada e totalmente responsiva.
 
 O aplicativo foi projetado com foco em:
@@ -159,7 +159,7 @@ Experiências práticas
 Vitrine de Projetos
 O portfolioHUB integra projetos pessoais e acadêmicos em uma seção dedicada, incluindo:
 
-Nidium
+Bolão WC 26
 
 Exercícios de Lógica de Programação em Python
 
